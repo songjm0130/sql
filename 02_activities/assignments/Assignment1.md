@@ -14,10 +14,10 @@
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
-- [ ] Create a branch called `assignment-one`.
-- [ ] Ensure that the repository is public.
-- [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
-- [ ] Verify that the link is accessible in a private browser window.
+- [Y] Create a branch called `assignment-one`.
+- [Y] Ensure that the repository is public.
+- [Y] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
+- [Y] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
 
@@ -205,5 +205,9 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+In my graduate studies, most of the time the databases and data would involve gender, age, race when I apply for scholarships/fellowships and although identifying one's gender/race is been used as a common way of "making sure of the diversity", but it could potential provoke prejudice in reviewers intentionally or unintentionally, or in the other way around, cause inequality when a diversity 'quota' has to be reached, and qualification are then determined by demographics, instead of student quality. 
+Another big component in the databases about students are the performance: numbers of publication, scholarship awarded, etc., and it was used as an objective measurements of student potential for research and success, most part of which I would agree to, but other qualitative factors like students' personality, or work quality also matters, which are sometimes ignored.
+
+In my regular day-to-day life, I think data or databases in multiple apps in the phone collect user preferences based on how long one spends on a certain content in social media, combining with other information that would inform financial and social status, such as spending behaviours, places have visited, terms that are searched, things subscribed, to try to tailor the advertisements or the contents to individuals, which would potentially create information cocoons that only reinforce the existing belief or knowledge that someone has, or only provide selective information without full spectrum.
+Also, according to posts from people's experience, business such as shopping platform or air ticket website may take advantage of these data and databases to show different prices to different people based on the type of phone they are using, the frequency of searching they have conducted (i.e. more searching means higher eagerness to buy), their history orders, etc., which is not fair to customers.
 ```
